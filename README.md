@@ -1,5 +1,6 @@
 # FSA
 
+```
 Medical services and treatments
 • Acupuncture 
 • Ambulance
@@ -49,4 +50,5 @@ diagnosed by a physician
 • Nasal sprays or drops
 • Ointments for cuts, burns or rashes
 • Pain relievers
-• Sleep aids 
+• Sleep aids
+```
